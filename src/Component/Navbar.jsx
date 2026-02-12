@@ -29,6 +29,31 @@ const Navbar = () => {
 
              <li className="nav-item">
               <Link className="nav-link text-white" to="/iplteam">IplTeam</Link>
+            </li> 
+
+            <li className="nav-item">
+              <Link className="nav-link text-white" to="/usedemo1">Usedemo1</Link>
+            </li>
+
+            <li className="nav-item">
+              <Link className="nav-link text-white" to="/usedemo2">Usedemo2</Link>
+            </li>
+
+            <li className="nav-item">
+              <Link className="nav-link text-white" to="/usedemo3">Usedemo3</Link>
+            </li>
+
+            <li className="nav-item">
+              <Link className="nav-link text-white" to="/employee">Employee</Link>
+            </li>
+             <li className="nav-item">
+              <Link className="nav-link text-white" to="/form">Form</Link>
+            </li>
+            <li className="nav-item">
+              <Link className="nav-link text-white" to="/country">country</Link>
+            </li>
+            <li className="nav-item">
+              <Link className="nav-link text-white" to="/formvalidate">Formvalidate</Link>
             </li>
 
           </ul>
